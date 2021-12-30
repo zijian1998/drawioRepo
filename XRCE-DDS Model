@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T03:19:53.510Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Vz7gaBcm6XZ_1Xxkt35j" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-30T03:20:35.209Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="BpaQXoouf_73JG3uUIr9" version="16.0.3" type="github" pages="7">
   <diagram id="4YJpglv_GsXVlTOLHL51" name="整体框架">
     <mxGraphModel dx="1146" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1394,9 +1394,9 @@
         <mxCell id="8_wdoR5LELHCsKlrzw23-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="DGbccTRkKODvc2aRNqDf-1" source="8_wdoR5LELHCsKlrzw23-13" target="8_wdoR5LELHCsKlrzw23-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_wdoR5LELHCsKlrzw23-18" value="ACKNACK?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8_wdoR5LELHCsKlrzw23-17">
+        <mxCell id="8_wdoR5LELHCsKlrzw23-18" value="ACKNACK?HighACKSeq" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="8_wdoR5LELHCsKlrzw23-17">
           <mxGeometry x="0.25" y="3" relative="1" as="geometry">
-            <mxPoint x="16" y="-10" as="offset" />
+            <mxPoint x="16" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8_wdoR5LELHCsKlrzw23-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="DGbccTRkKODvc2aRNqDf-1" source="8_wdoR5LELHCsKlrzw23-13" target="8_wdoR5LELHCsKlrzw23-24">
