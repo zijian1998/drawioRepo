@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T08:22:55.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="xagAY7wLzj31g_jgaObh" version="16.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-02-22T08:24:09.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="Sp8s3z6gcjLg0j5hVcrr" version="16.6.1" type="github" pages="7">
   <diagram id="4YJpglv_GsXVlTOLHL51" name="整体框架">
     <mxGraphModel dx="1236" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1211,7 +1211,7 @@
             <mxPoint x="380" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkNTXb4XqBkam-OwX8er-0" value="min_elapse_time:=msg.dc.min_elapse_time&lt;br&gt;max_data := msg.dc.max_samples&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9PipYZ7NbSMqKaGM_7Lt-3" vertex="1" connectable="0">
+        <mxCell id="tkNTXb4XqBkam-OwX8er-0" value="min_elapse_time:=msg.dc.min_elapse_time&lt;br&gt;max_data := msg.dc.max_samples&lt;br&gt;min_pace_period:=msg.dc.min_pace_period" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9PipYZ7NbSMqKaGM_7Lt-3" vertex="1" connectable="0">
           <mxGeometry x="-0.8" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="31" as="offset" />
           </mxGeometry>
