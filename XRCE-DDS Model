@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T08:24:09.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="Sp8s3z6gcjLg0j5hVcrr" version="16.6.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-02-22T08:24:44.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="x2z9Zd9rdoiisxEY_npT" version="16.6.1" type="github" pages="7">
   <diagram id="4YJpglv_GsXVlTOLHL51" name="整体框架">
     <mxGraphModel dx="1236" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
         <mxCell id="5uTzuUR5uNAR-x3P3xcq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iZkbVyoFUoSE0fkcVcqZ-49" target="5uTzuUR5uNAR-x3P3xcq-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5uTzuUR5uNAR-x3P3xcq-12" value="msg.datareaderID:=rdid&lt;br&gt;msg.dc.min_pace_period:=SleepTime&lt;br&gt;msg.dc.max_samples:=MAX_DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5uTzuUR5uNAR-x3P3xcq-11" vertex="1" connectable="0">
+        <mxCell id="5uTzuUR5uNAR-x3P3xcq-12" value="msg.datareaderID:=rdid&lt;br&gt;msg.dc.min_pace_period:=SleepTime&lt;br&gt;msg.dc.max_samples:=MAX_DATA&lt;br&gt;msg.dc.max_elapsed_time:=StopTime" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5uTzuUR5uNAR-x3P3xcq-11" vertex="1" connectable="0">
           <mxGeometry x="-0.25" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
