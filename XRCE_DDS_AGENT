@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T08:58:38.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" version="17.1.0" etag="4r-N22RkVJ3vjXATN_k9" type="github"><diagram id="Zmyb_QXHPfWGYp7vgMOi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-16T15:56:54.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="cnqKb5qWO6mkFtBHxSV5" version="17.1.0" type="github">
+  <diagram id="Zmyb_QXHPfWGYp7vgMOi" name="Page-1">
+    <mxGraphModel dx="1236" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUXhkQ_oEs9IZstAFcyB-1" target="wUXhkQ_oEs9IZstAFcyB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-1" value="&lt;font&gt;agent_instance.create()&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUXhkQ_oEs9IZstAFcyB-2" target="wUXhkQ_oEs9IZstAFcyB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-2" value="创建一个agent_thread线程&lt;br&gt;create_agent_thread();&lt;br&gt;该线程只是为了初始化和启动各个线程，完成即结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUXhkQ_oEs9IZstAFcyB-5" target="wUXhkQ_oEs9IZstAFcyB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-5" value="ArgumentPraser::&lt;br&gt;launch_agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wUXhkQ_oEs9IZstAFcyB-7" target="wUXhkQ_oEs9IZstAFcyB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-7" value="agent_server_.reset&lt;br&gt;agent_server_.start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wUXhkQ_oEs9IZstAFcyB-9" target="wUXhkQ_oEs9IZstAFcyB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-9" value="Server::start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wUXhkQ_oEs9IZstAFcyB-11" target="wUXhkQ_oEs9IZstAFcyB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-11" value="Server::init()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wUXhkQ_oEs9IZstAFcyB-13" value="input_scheduler.init()&lt;br&gt;input_scheduler.set_priority_size();&lt;br&gt;output_scheduler.init();&lt;br&gt;创建五个线程&lt;br&gt;error_handler_thread&lt;br&gt;receiver_loop&lt;br&gt;sender_loop&lt;br&gt;processing_loop&lt;br&gt;heartbeat_loop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="900" width="200" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
