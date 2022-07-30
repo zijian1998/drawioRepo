@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T07:43:17.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="yuYJSt7WyUcFsudLiCAQ" version="20.2.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-07-30T07:47:46.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="0sXbuHsKTq2PeRxnnT8e" version="20.2.1" type="github" pages="9">
   <diagram id="ySAYqXhxu_nZdqq_hrn-" name="流程示意图">
     <mxGraphModel dx="1236" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,7 +447,7 @@
         <mxCell id="Q26elY3Y60XpUvUp9Qd7-6" value="&lt;span style=&quot;&quot;&gt;订阅客户端的代理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="460" y="380" width="176" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q26elY3Y60XpUvUp9Qd7-7" value="代理消息收发器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="Q26elY3Y60XpUvUp9Qd7-7" value="代理端消息收发器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="90" height="200" as="geometry" />
         </mxCell>
         <mxCell id="PzJR3RyEHsrdkemhcoRt-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q26elY3Y60XpUvUp9Qd7-1" edge="1">
