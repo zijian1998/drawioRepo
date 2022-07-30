@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T08:11:20.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="ZsjMNs6LMIhSKYaV3t54" version="20.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-30T08:12:12.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="UAjt5DTOWKYtjMZrLWrt" version="20.2.1" type="github" pages="10">
   <diagram id="ySAYqXhxu_nZdqq_hrn-" name="流程示意图">
     <mxGraphModel dx="1236" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -975,7 +975,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EQ-qAea2fy24H8n8WIvv" name="子模块架构图">
+  <diagram id="EQ-qAea2fy24H8n8WIvv" name="子模块框架图">
     <mxGraphModel dx="1662" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1009,6 +1009,9 @@
         </mxCell>
         <mxCell id="MhD2DWhDA_Vmnd9sJMVL-5" value="接收器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhD2DWhDA_Vmnd9sJMVL-11" value="发送客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
