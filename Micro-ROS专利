@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T08:19:51.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="yAwgGrNYji2uWKVNd0C6" version="20.2.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-30T08:20:22.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="hPAtk-7xXDvVFEC2Q3e4" version="20.2.1" type="github" pages="10">
   <diagram id="ySAYqXhxu_nZdqq_hrn-" name="流程示意图">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1007,7 +1007,7 @@
             <mxPoint x="320" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXUlM_cfFNp3ocvqID08-5" value="可靠消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="HXUlM_cfFNp3ocvqID08-1">
+        <mxCell id="HXUlM_cfFNp3ocvqID08-5" value="可靠消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;rotation=-60;" vertex="1" connectable="0" parent="HXUlM_cfFNp3ocvqID08-1">
           <mxGeometry x="-0.3231" y="1" relative="1" as="geometry">
             <mxPoint x="-33" y="8" as="offset" />
           </mxGeometry>
@@ -1018,7 +1018,7 @@
             <mxPoint x="316.96000000000004" y="461.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXUlM_cfFNp3ocvqID08-6" value="ACKNACK消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="HXUlM_cfFNp3ocvqID08-2">
+        <mxCell id="HXUlM_cfFNp3ocvqID08-6" value="ACKNACK消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;rotation=45;" vertex="1" connectable="0" parent="HXUlM_cfFNp3ocvqID08-2">
           <mxGeometry x="-0.5416" y="-1" relative="1" as="geometry">
             <mxPoint x="37" y="22" as="offset" />
           </mxGeometry>
@@ -1029,7 +1029,7 @@
             <mxPoint x="520" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXUlM_cfFNp3ocvqID08-7" value="心跳消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="HXUlM_cfFNp3ocvqID08-3">
+        <mxCell id="HXUlM_cfFNp3ocvqID08-7" value="心跳消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;rotation=-60;" vertex="1" connectable="0" parent="HXUlM_cfFNp3ocvqID08-3">
           <mxGeometry x="-0.3731" y="-1" relative="1" as="geometry">
             <mxPoint x="8" y="-23" as="offset" />
           </mxGeometry>
@@ -1040,7 +1040,7 @@
             <mxPoint x="530" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HXUlM_cfFNp3ocvqID08-8" value="可靠消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="HXUlM_cfFNp3ocvqID08-4">
+        <mxCell id="HXUlM_cfFNp3ocvqID08-8" value="可靠消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;rotation=45;" vertex="1" connectable="0" parent="HXUlM_cfFNp3ocvqID08-4">
           <mxGeometry x="-0.4077" y="-3" relative="1" as="geometry">
             <mxPoint x="-13" y="-24" as="offset" />
           </mxGeometry>
