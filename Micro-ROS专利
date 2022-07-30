@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T12:52:00.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="ydT-ZNXDIz95DffItxje" version="20.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-07-30T07:43:17.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.71" etag="yuYJSt7WyUcFsudLiCAQ" version="20.2.1" type="github" pages="9">
   <diagram id="ySAYqXhxu_nZdqq_hrn-" name="流程示意图">
-    <mxGraphModel dx="996" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,7 +425,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IEMmquTFATOpAwzPgsAi" name="应用实例架构图">
-    <mxGraphModel dx="996" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1236" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,13 +438,13 @@
         <mxCell id="Q26elY3Y60XpUvUp9Qd7-2" value="订阅客户端&lt;br&gt;XRCE-Client2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="180" y="370" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Q26elY3Y60XpUvUp9Qd7-3" value="XRCE-Agent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="Q26elY3Y60XpUvUp9Qd7-3" value="XRCE-代理端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="330" y="230" width="330" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="Q26elY3Y60XpUvUp9Qd7-5" value="发布客户端的代表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="Q26elY3Y60XpUvUp9Qd7-5" value="发布客户端的代理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="460" y="260" width="176" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q26elY3Y60XpUvUp9Qd7-6" value="&lt;span style=&quot;&quot;&gt;订阅客户端的代表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="Q26elY3Y60XpUvUp9Qd7-6" value="&lt;span style=&quot;&quot;&gt;订阅客户端的代理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="460" y="380" width="176" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q26elY3Y60XpUvUp9Qd7-7" value="代理消息收发器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
@@ -478,7 +478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fbR0fImqmp8PgxnyA_cy" name="应用实例架构图2">
-    <mxGraphModel dx="2359" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2063" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -677,6 +677,41 @@
         </mxCell>
         <mxCell id="t_qCqACZvz5efm-c8elC-8" value="OUTPUSTREAM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;direction=west;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="440" y="620" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="应用实例架构图3" id="9faYtGA0V_cRAo0PixDT">
+    <mxGraphModel dx="1236" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-0" />
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-1" parent="Kf7O8BCRrpnYNrmFtOfd-0" />
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Kf7O8BCRrpnYNrmFtOfd-1">
+          <mxGeometry x="170" y="220" width="500" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-3" value="发布客户端&lt;br&gt;XRCE-Client" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Kf7O8BCRrpnYNrmFtOfd-1">
+          <mxGeometry x="190" y="260" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-5" value="XRCE-Agent" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Kf7O8BCRrpnYNrmFtOfd-1">
+          <mxGeometry x="330" y="230" width="330" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-6" value="发布客户端的代表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Kf7O8BCRrpnYNrmFtOfd-1">
+          <mxGeometry x="550" y="250" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-8" value="代理消息收发器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Kf7O8BCRrpnYNrmFtOfd-1">
+          <mxGeometry x="340" y="260" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Kf7O8BCRrpnYNrmFtOfd-1" source="Kf7O8BCRrpnYNrmFtOfd-3" target="Kf7O8BCRrpnYNrmFtOfd-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="340" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kf7O8BCRrpnYNrmFtOfd-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.011;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Kf7O8BCRrpnYNrmFtOfd-1" source="Kf7O8BCRrpnYNrmFtOfd-8" target="Kf7O8BCRrpnYNrmFtOfd-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
