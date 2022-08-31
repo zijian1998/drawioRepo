@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T10:51:40.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="5RQSnD-7rvs9wfOKWeKq" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-31T10:53:40.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="xaI6-xrh0iMPGnHuEtcL" version="20.2.7" type="github" pages="2">
   <diagram id="Cu3Wi12RIywi67khit8y" name="第 1 页">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,11 @@
         <mxCell id="Vr0anUhhQOMTHhNCv-h3-6" value="时态逻辑公式" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/stock_new-formula-36.png" vertex="1" parent="1">
           <mxGeometry x="167" y="240" width="66" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="A0asSoKog9x-4669OgLr-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vr0anUhhQOMTHhNCv-h3-12" target="A0asSoKog9x-4669OgLr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vr0anUhhQOMTHhNCv-h3-12" value="监视器" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.monitor_running_apps" vertex="1" parent="1">
-          <mxGeometry x="161.54000000000002" y="460" width="76.92" height="60" as="geometry" />
+          <mxGeometry x="161.54000000000002" y="430" width="76.92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vr0anUhhQOMTHhNCv-h3-17" value="Micro ROS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="20" width="80" height="30" as="geometry" />
@@ -78,6 +81,12 @@
             <mxPoint x="247.69079999999985" y="470.5999999999999" as="sourcePoint" />
             <mxPoint x="510" y="510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A0asSoKog9x-4669OgLr-9" value="建模仿真平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A0asSoKog9x-4669OgLr-10" value="生成报告，反馈&lt;br&gt;运行时验证结果" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="150" y="555" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
