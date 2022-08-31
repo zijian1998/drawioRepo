@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T11:03:35.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="J7rADlAWOztMt3ux_np6" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-31T11:05:15.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="nRaBySw04tO7flOfXPhr" version="20.2.7" type="github" pages="3">
   <diagram id="Cu3Wi12RIywi67khit8y" name="第 1 页">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
         <mxCell id="aV6FdH420YAtmgP9UW0--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="aV6FdH420YAtmgP9UW0--5" target="aV6FdH420YAtmgP9UW0--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aV6FdH420YAtmgP9UW0--5" value="XRCE-DDS开源代码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="aV6FdH420YAtmgP9UW0--5" value="Micro XRCE-DDS开源实现" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="601" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aV6FdH420YAtmgP9UW0--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="aV6FdH420YAtmgP9UW0--7" target="aV6FdH420YAtmgP9UW0--11">
