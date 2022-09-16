@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T05:20:27.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="i0fNt0PoQVzK-Fl8uxMt" version="20.3.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-09-16T05:21:57.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="qzewFKq1F-swBARvkUsS" version="20.3.0" type="github" pages="10">
   <diagram id="Cu3Wi12RIywi67khit8y" name="第 1 页">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -500,7 +500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FRBS27O4_TD2pahdSoJU" name="时间自动机模型同步关系">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,22 +563,42 @@
             <mxPoint x="300" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L-Zuw5ZaRFCZQ4hULM9g-1" value="inputdata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N18_BOdkb6dhQMNyBRft-16">
+          <mxGeometry x="-0.52" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N18_BOdkb6dhQMNyBRft-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontSize=16;fillColor=none;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="N18_BOdkb6dhQMNyBRft-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="539.5" y="560" as="sourcePoint" />
             <mxPoint x="540" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L-Zuw5ZaRFCZQ4hULM9g-3" value="outputdata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N18_BOdkb6dhQMNyBRft-17">
+          <mxGeometry x="-0.52" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="N18_BOdkb6dhQMNyBRft-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontSize=16;fillColor=none;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="N18_BOdkb6dhQMNyBRft-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="230" as="sourcePoint" />
-            <mxPoint x="620" y="230" as="targetPoint" />
+            <mxPoint x="620" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L-Zuw5ZaRFCZQ4hULM9g-4" value="outputdata2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N18_BOdkb6dhQMNyBRft-18">
+          <mxGeometry x="-0.52" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N18_BOdkb6dhQMNyBRft-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontSize=16;fillColor=none;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="N18_BOdkb6dhQMNyBRft-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="230" as="sourcePoint" />
             <mxPoint x="199.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L-Zuw5ZaRFCZQ4hULM9g-2" value="inputdate2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N18_BOdkb6dhQMNyBRft-19">
+          <mxGeometry x="-0.44" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
