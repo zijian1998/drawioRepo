@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T13:44:38.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34" etag="5sHeJEvbkDNYO3oNILsC" version="20.3.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-10-06T13:46:43.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34" etag="H3d842lYKIJ_0Vxaw8Uc" version="20.3.7" type="github" pages="14">
   <diagram id="Cu3Wi12RIywi67khit8y" name="第 1 页">
     <mxGraphModel dx="995" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
             <mxPoint x="420" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aV6FdH420YAtmgP9UW0--11" value="建模模拟" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="aV6FdH420YAtmgP9UW0--11" value="建模仿真" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aV6FdH420YAtmgP9UW0--33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="aV6FdH420YAtmgP9UW0--13" target="aV6FdH420YAtmgP9UW0--15" edge="1">
@@ -302,7 +302,7 @@
         <mxCell id="aV6FdH420YAtmgP9UW0--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="aV6FdH420YAtmgP9UW0--28" target="aV6FdH420YAtmgP9UW0--11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aV6FdH420YAtmgP9UW0--28" value="建模模拟工具" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="aV6FdH420YAtmgP9UW0--28" value="建模仿真工具" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aV6FdH420YAtmgP9UW0--29" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="aV6FdH420YAtmgP9UW0--32" target="aV6FdH420YAtmgP9UW0--17" edge="1">
@@ -322,7 +322,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aV6FdH420YAtmgP9UW0--32" value="分析模拟结果" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="aV6FdH420YAtmgP9UW0--32" value="分析分析结果" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="365" y="460" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
