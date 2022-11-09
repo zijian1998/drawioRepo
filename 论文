@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T11:06:42.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34" etag="UsFakjMzWDbrpcGj1fQz" version="20.3.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-11-09T12:30:27.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="tKmwiKnyydYjBGfa_0wz" version="20.4.1" type="github" pages="15">
   <diagram id="Cu3Wi12RIywi67khit8y" name="第 1 页">
-    <mxGraphModel dx="995" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1582" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,100 @@
         </mxCell>
         <mxCell id="A0asSoKog9x-4669OgLr-10" value="生成报告，反馈&lt;br&gt;运行时验证结果" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
           <mxGeometry x="150" y="555" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 1 页 的副本" id="Md68ScPawpjO-afgCW5n">
+    <mxGraphModel dx="1356" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-0" />
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-1" parent="zMPnXbjfpIrvQ9Mlw9Ei-0" />
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="90" y="365" width="230" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="640.31" y="120" width="449.69" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-5" target="zMPnXbjfpIrvQ9Mlw9Ei-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-5" value="DDS-XRCE 规范" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="135" y="150" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-7" target="zMPnXbjfpIrvQ9Mlw9Ei-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-7" value="Micro &lt;br&gt;XRCE -DDS Agent" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="140" y="410" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-9" target="zMPnXbjfpIrvQ9Mlw9Ei-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-9" value="Micro &lt;br&gt;XRCE -DDS Client" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="140" y="610" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-11" target="zMPnXbjfpIrvQ9Mlw9Ei-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-11" value="&lt;font color=&quot;#000000&quot;&gt;形式化模型&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/model.svg;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="488" y="507.5" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-14" target="zMPnXbjfpIrvQ9Mlw9Ei-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-13" value="输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zMPnXbjfpIrvQ9Mlw9Ei-12">
+          <mxGeometry x="0.4355" y="-3" relative="1" as="geometry">
+            <mxPoint x="-92" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-14" value="时态逻辑公式" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/stock_new-formula-36.png" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="500" y="165" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-16" target="zMPnXbjfpIrvQ9Mlw9Ei-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-16" value="监视器" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.monitor_running_apps" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="760" y="168" width="76.92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-17" value="Micro ROS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="160" y="365" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="660.31" y="455" width="340" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-20" target="zMPnXbjfpIrvQ9Mlw9Ei-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-20" value="建立仿真模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="700.31" y="527.5" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-21" value="运行仿真模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="860.31" y="527.5" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-16" target="zMPnXbjfpIrvQ9Mlw9Ei-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="896.31" y="300" as="sourcePoint" />
+            <mxPoint x="1106.31" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.581;exitY=1.065;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1" source="zMPnXbjfpIrvQ9Mlw9Ei-16" target="zMPnXbjfpIrvQ9Mlw9Ei-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="854.0007999999998" y="340.5999999999999" as="sourcePoint" />
+            <mxPoint x="1116.31" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-24" value="建模仿真平台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="815.15" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zMPnXbjfpIrvQ9Mlw9Ei-25" value="生成报告，反馈&lt;br&gt;运行时验证结果" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="zMPnXbjfpIrvQ9Mlw9Ei-1">
+          <mxGeometry x="955.31" y="168" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
